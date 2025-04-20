@@ -1,4 +1,4 @@
-# 🚀 Terraform AWS Web Server Auto Scaling Infrastructure
+# 🚀 Deploying High Available Web App Using Terraform
 
 This project uses Terraform to provision a scalable, highly available web application infrastructure on AWS. It includes:
 
